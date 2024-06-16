@@ -65,8 +65,7 @@
 - `view_etc_model`: 기타 모델 화면 LinearLayout
 
 ## Drawable
-- `<WHAT>(_<WHERE>)_<DESCRIPTION>(_<SIZE>)`
-- 이미지가 여러군데에서 활용될 경우, `<WHERE>`는 생략 가능하다.
+- `<WHAT>_<WHERE>_<DESCRIPTION>(_<SIZE>)`
 - 이미지의 크기가 1개밖에 없는 경우, `<SIZE>`는 생략 가능하다.
 
 ### What
