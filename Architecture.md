@@ -79,7 +79,7 @@ data class User(){}
 ```kotlin
 data class UserModel(){}
  
-fun User.toUI(): UserModel
+fun User.toUi(): UserModel
 fun UserModel.toDomain(): User
 ```
 ### Data
