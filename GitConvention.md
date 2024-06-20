@@ -3,7 +3,7 @@
 <img src="https://github.com/Team-WSS/WSS-Android-Convention/assets/114990782/050ed37b-bb15-46e2-933a-b840e35e9d5f" width="50%" height="50%"/>
 
 
-- 한 branch는 한 issue와 대응한다.
+- branch와 issue는 1:1 대응한다.
 - 다음과 같은 브랜치를 사용한다.
     - feature: 기능 단위의 브랜치
         - 구현이 완료되면, develop 브랜치에 병합된다.
