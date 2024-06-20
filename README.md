@@ -8,6 +8,7 @@ Websoso 안드로이드 프로젝트에 적용되는 컨벤션을 정리하기 �
 - [Kotlin](Kotlin.md)
 - [Architecture](Architecture.md)
 - [Resource](Resource.md)
+- [GitConvention](GitConvention.md)
   
 ## 참고
 
