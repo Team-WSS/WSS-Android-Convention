@@ -1,8 +1,7 @@
 # Architecture
 - 코드의 Architecture는 MVVM + Android App Architecture 를 사용한다.
 - 기본적인 구조는 아래와 같이 구성한다.
-![](art/android_app_architecture.png)
-
+<img src="art/android_app_architecture.png" width="50%" height="50%"/>
 
 ## ViewModel
 - ViewModel(Presentation Layer)에는 안드로이드 프레임워크 관련 코드가 없어야함
