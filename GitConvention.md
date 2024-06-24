@@ -5,13 +5,13 @@
 
 - branch와 issue는 1:1 대응한다.
 - 다음과 같은 브랜치를 사용한다.
-    - feature: 기능 단위의 브랜치
+    - feat: 기능 단위의 브랜치
         - 구현이 완료되면, develop 브랜치에 병합된다.
-        - child feature: 부모 feature 브랜치를 더 작게 분리한 브랜치
-            - 구현이 완료되면, parent feature 브랜치에 병합된다.
-    - develop: 여러 feature 브랜치가 병합된 브랜치
+        - child feat: 부모 feat 브랜치를 더 작게 분리한 브랜치
+            - 구현이 완료되면, parent feat 브랜치에 병합된다.
+    - develop: 여러 feat 브랜치가 병합된 브랜치
     - release: QA 단계에 사용할 MVP 버전의 브랜치
-        - QA 제품에 코드 수정이 발생할 경우, feature - develop - release 순으로 재병합된다.
+        - QA 제품에 코드 수정이 발생할 경우, feat - develop - release 순으로 재병합된다.
     - master: 실제 배포된 버전의 브랜치
         - 배포 제품에 버그가 발생할 경우, hotfix 브랜치를 통해 즉각 대응한다.
     - hotfix: 배포 제품의 버그 대응 브랜치
@@ -20,13 +20,13 @@
 ### Branch Naming
 - 브랜치단위/이슈번호
     - 브랜치 단위
-        - feature
+        - feat
         - develop
         - release
         - master
         - hotfix
 - 브랜치 네이밍 예시는 다음과 같다.
-    - 예시) `feature/1`
+    - 예시) `feat/1`
 
  
 ## Commit Convention
