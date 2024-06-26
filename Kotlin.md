@@ -118,7 +118,8 @@ fun onTextChanged()
 
 ## Formatting
 ### 개행
-- 생성자, 함수에서 Parameter를 정의할때 한줄 이상이라면 개행한다.
+- 생성자는 한 줄 이상이라면 개행한다.
+- 함수는 한 줄에 Parameter 정의가 가능하다면 한 줄로 사용하고, 그렇지 않다면 Parameter 별로 개행한다.
 
 ### When Statement
 - 한 줄에 들어가는 when 분기는 중괄호를 사용하지 않는다.
