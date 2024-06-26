@@ -45,7 +45,7 @@ package com.example.myProject
 ### 함수 이름
 - ViewModel을 observe()할때 모아놓는 함수 이름
 ```kotlin
-setupXXX()
+setupObserver()
 ```
 
 - 서버에서 데이터를 불러올때 함수 이름
