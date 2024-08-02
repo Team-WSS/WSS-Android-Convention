@@ -45,6 +45,7 @@
 | ProgressBar | `pb_` |
 | FrameLayout | `fl_` |
 | NestedScrollView | `nsv_` |
+| CoordinatorLayout | `cdl_` |
 | Space | `space_` |
 | Switch | `switch` |
 | AbcDeFgh | `adf_` |
